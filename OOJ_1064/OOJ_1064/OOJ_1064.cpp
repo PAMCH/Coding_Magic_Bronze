@@ -24,7 +24,7 @@ void output()
 		char ch = a[i].front();
 		if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
 		{
-			cout << a[i] << "eluer" << endl;
+			cout << a[i] << "euler" << endl;
 		}
 		else
 		{
